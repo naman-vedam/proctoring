@@ -1,9 +1,9 @@
 import React from 'react'
-
+import CursorPOC from '../../components/Cursor'
 const page = () => {
   return (
   <>
-  cursor
+  <CursorPOC />
   </>
   )
 }
